@@ -1,1 +1,1 @@
-![Main Screen](https://github.com/Giralis/NewsApp/raw/tree/main/NewsApp_Screenshots/NewsApp_MainScreen.png)
+![Main Screen](https://github.com/Giralis/NewsApp/tree/main/NewsApp_Screenshots/NewsApp_MainScreen.png?raw=true)
